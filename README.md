@@ -33,12 +33,12 @@ Check out my work and projects on my [Portfolio](https://charizard00001.github.i
 - 📊 Data analysis and consultancy projects
 
 ## 🏆 Competitive Programming:
-- **Ranked 830 globally** in Codeforces Round 948 Div-2 coding contest
-- **Got global rank 754** in Codeforces Round 950 Div-3 coding contest
+- **Ranked 1487 globally** in Codeforces Round 931 Div-2 coding contest
+- **Got global rank 2019** in Codeforces Round 922 Div-3 coding contest
 - **Ranked 63 globally** in Codechef Starters 135 Div-4 coding contest
 - **Active Member** on online judges including Codeforces, Codechef, and Leetcode with handle charizard0001
 - **Maximum Ratings:** 
-  - Codeforces: 1637 (Expert)
+  - Codeforces: 1537 (Specialist)
 
 ## 📫 How to Reach Me:
 - 📧 Email: stillnongdamba@gmail.com
