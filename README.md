@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and a lifelong le
 - 💸 Finance
 
 ## 🌐 Portfolio:
-Check out my work and projects on my [Portfolio](https://charizard00001.github.io/charizard0001.portfolio.io/)
+Check out my work and projects on my [Portfolio](https://charizard00001.github.io/charizard0001.portfolio/)
 
 ## 🌱 Currently Learning:
 - 🧠 Advanced Machine Learning Algorithms
